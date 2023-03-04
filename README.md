@@ -1,9 +1,6 @@
 Trailing Spaces
 ===============
 
-[![Build Status](https://travis-ci.org/shardulm94/vscode-trailingspaces.svg?branch=master)](https://travis-ci.org/shardulm94/vscode-trailingspaces)
-[![VS Code Marketplace](https://vsmarketplacebadge.apphb.com/version-short/shardulm94.trailing-spaces.svg) ![Rating](https://vsmarketplacebadge.apphb.com/rating-short/shardulm94.trailing-spaces.svg) ![Installs](https://vsmarketplacebadge.apphb.com/installs/shardulm94.trailing-spaces.svg)](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
-
 A [VS Code](https://code.visualstudio.com/) extension that allows you to…
 
 **highlight trailing spaces and delete them in a flash!**
